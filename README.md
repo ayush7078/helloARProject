@@ -14,7 +14,6 @@ A Weather Station Dashboard web application that provides users with current wea
 ## Technologies Used
 
 - React.js
-- Three.js (for the 3D globe)
 - OpenWeatherMap API (for weather data)
 
 ## Installation
