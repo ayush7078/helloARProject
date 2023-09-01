@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import WeatherInfo from './WeatherInfo';
 import './WeatherDashboard.css';
 
-//const API_KEY = 'd5790c10a4a715cdb10e2ecc9aad1669';
+//const API_KEY = '';
 //const API_BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
 const WeatherDashboard = () => {
